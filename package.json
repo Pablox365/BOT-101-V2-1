@@ -1,0 +1,12 @@
+{
+  "name": "invite-tracker",
+  "version": "1.0.0",
+  "description": "Bot para detectar invites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
